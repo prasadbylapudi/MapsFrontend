@@ -1,4 +1,7 @@
 # MapsFrontend
+![locations](https://github.com/prasadbylapudi/MapsFrontend/assets/31813770/4b61588c-b673-4be5-acc2-5763de797981)
+
+![closer locatin](https://github.com/prasadbylapudi/MapsFrontend/assets/31813770/f9b92594-48b2-4ceb-affe-a672cfb04082)
 
 
 ## Technologies Used
@@ -51,6 +54,9 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
   - 200 OK: Data is successfully inserted.
   - 400 Bad Request: If required data (name, latitude, longitude) is missing in the request.
   - 500 Internal Server Error: If there is an issue with the server or database.
+ 
+![inserting Data](https://github.com/prasadbylapudi/MapsFrontend/assets/31813770/333e53d2-dfec-4a33-8dc9-6a4301b32e75)
+
 
 ## `/locations` (GET)
 
@@ -64,6 +70,9 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
     - `address` (string, optional): The address of the location.
     - `description` (string, optional): A description of the location.
   - 500 Internal Server Error: If there is an issue with the server or database.
+
+![get locations](https://github.com/prasadbylapudi/MapsFrontend/assets/31813770/7320ae2c-ed87-4a61-bb41-a06f0566eab8)
+
 
 ## Server Port
 
