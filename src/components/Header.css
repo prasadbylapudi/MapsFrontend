@@ -1,0 +1,10 @@
+/* Header.css */
+.header {
+  background-color: rgb(35, 29, 29); 
+  text-align: center; 
+  padding: 6px; 
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 5px;
+  color: white;
+}
